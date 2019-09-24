@@ -42,16 +42,14 @@ Back-end PHP communicates with front-end HTML and JavaScript. PHP gets front- en
 <img src="https://s2.ax1x.com/2019/09/24/uEBEM8.png" width = 80%></img>
 - Transaction <br>
 <img src="https://s2.ax1x.com/2019/09/24/uEBZqg.png" width = 80%></img>
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
 - Check transaction history and status<br>
 <img src="https://s2.ax1x.com/2019/09/24/uEB1zV.png" width = 80%></img>
 - Pay a product<br>
 <img src="https://s2.ax1x.com/2019/09/24/uEBGsU.png" width = 80%></img>
 - Search a product from transactions<br>
 <img src="https://s2.ax1x.com/2019/09/24/uEBtZ4.png" width = 80%></img>
-
-- Edit profile
-
+- Edit profile<br>
+<img src="https://s2.ax1x.com/2019/09/24/uEBfJI.png" width = 80%></img>
 #### Manager
 - Manager Login<br>
 <img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
