@@ -33,20 +33,25 @@ Back-end PHP communicates with front-end HTML and JavaScript. PHP gets front- en
 ### System implementation with example screenshots
 #### Customer
 - Customer Login and Create an Account
+<img src="https://s2.ax1x.com/2019/09/24/uE0DbQ.png" width = 80%></img>
+<img src="https://s2.ax1x.com/2019/09/24/uE065n.png" width = 80%></img>
+- Welcome 
+<img src="https://s2.ax1x.com/2019/09/24/uE0WvT.png" width = 80%></img>
+- Buy a product
+<img src="https://s2.ax1x.com/2019/09/24/uE0OxK.png" width = 80%></img>
+<img src="https://s2.ax1x.com/2019/09/24/uEBEM8.png" width = 80%></img>
+- Transaction 
+<img src="https://s2.ax1x.com/2019/09/24/uEBZqg.png" width = 80%></img>
 <img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
-- Shop
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
-- Shopping cart
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
-- User Account Management
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
-- Logout
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
+- Check transaction history and status
+<img src="https://s2.ax1x.com/2019/09/24/uEB1zV.png" width = 80%></img>
+- Pay a product
+<img src="https://s2.ax1x.com/2019/09/24/uEBGsU.png" width = 80%></img>
+- Search a product from transactions
+<img src="https://s2.ax1x.com/2019/09/24/uEBtZ4.png" width = 80%></img>
+
+- Edit profile
+
 #### Manager
 - Manager Login
 <img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
