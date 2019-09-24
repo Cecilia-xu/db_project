@@ -9,8 +9,10 @@ There two types of users in our system which are ‘Customer’ and ‘Manager�
 ## Functional Requirements Analysis
 <img src="https://s2.ax1x.com/2019/09/24/uEaCcD.png" width = 60%></img>
 <img src="https://s2.ax1x.com/2019/09/24/uEaAHA.png" width = 60%></img>
-## ER model
+## ER Model
 <img src="https://s2.ax1x.com/2019/09/24/uEaBDJ.png" width = 80%></img>
+## Relational Database Schema
+<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
 
 ## Setup
 ```
