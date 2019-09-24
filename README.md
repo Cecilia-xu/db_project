@@ -30,5 +30,5 @@ administration system is also very friendly for everyone to use.
 - Provide sufficient capability to meet expected user needs<br>
 Based on the function requirement analysis, we achieve our goals and provide all the
 functions we mentioned in the previous part.
-2. Connection
+2.  Connection
 Back-end PHP communicates with front-end HTML and JavaScript. PHP gets front- end data via POST or GET and outputs data to the front end through direct output to HTML page. Its process is: 1) PHP passes back-end data to HTML 2) PHP reads front-end GET data 3) JavaScript reads PHP back-end data.
