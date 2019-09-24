@@ -20,7 +20,7 @@ A set of relational schemas resulting from the E-R diagram can identify types of
 <img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
 ## System Design and Implementation
 ### Front-end Design & Connection
-1.  Front-end design
+1. Front-end design
 We use HTML + CSS + JavaScript to design the front-end pages. Also, we use AmazeUI framework to improve our user interface and achieve responsive web pages.
 - Meet business objectives<br>
 Since our target customer is people who like sports, we choose bright blue as main color. Also, we use mobile-responsive framework to make sure the smooth user flow on their mobile devices so that they can shop online anytime and anywhere.
@@ -30,5 +30,5 @@ administration system is also very friendly for everyone to use.
 - Provide sufficient capability to meet expected user needs<br>
 Based on the function requirement analysis, we achieve our goals and provide all the
 functions we mentioned in the previous part.
-2.  Connection
+2. Connection
 Back-end PHP communicates with front-end HTML and JavaScript. PHP gets front- end data via POST or GET and outputs data to the front end through direct output to HTML page. Its process is: 1) PHP passes back-end data to HTML 2) PHP reads front-end GET data 3) JavaScript reads PHP back-end data.
