@@ -32,31 +32,31 @@ functions we mentioned in the previous part.
 Back-end PHP communicates with front-end HTML and JavaScript. PHP gets front- end data via POST or GET and outputs data to the front end through direct output to HTML page. Its process is: 1) PHP passes back-end data to HTML 2) PHP reads front-end GET data 3) JavaScript reads PHP back-end data.
 ### System implementation with example screenshots
 #### Customer
-- Customer Login and Create an Account
+- Customer Login and Create an Account<br>
 <img src="https://s2.ax1x.com/2019/09/24/uE0DbQ.png" width = 80%></img>
 <img src="https://s2.ax1x.com/2019/09/24/uE065n.png" width = 80%></img>
-- Welcome 
+- Welcome <br>
 <img src="https://s2.ax1x.com/2019/09/24/uE0WvT.png" width = 80%></img>
-- Buy a product
+- Buy a product<br>
 <img src="https://s2.ax1x.com/2019/09/24/uE0OxK.png" width = 80%></img>
 <img src="https://s2.ax1x.com/2019/09/24/uEBEM8.png" width = 80%></img>
-- Transaction 
+- Transaction <br>
 <img src="https://s2.ax1x.com/2019/09/24/uEBZqg.png" width = 80%></img>
 <img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
-- Check transaction history and status
+- Check transaction history and status<br>
 <img src="https://s2.ax1x.com/2019/09/24/uEB1zV.png" width = 80%></img>
-- Pay a product
+- Pay a product<br>
 <img src="https://s2.ax1x.com/2019/09/24/uEBGsU.png" width = 80%></img>
-- Search a product from transactions
+- Search a product from transactions<br>
 <img src="https://s2.ax1x.com/2019/09/24/uEBtZ4.png" width = 80%></img>
 
 - Edit profile
 
 #### Manager
-- Manager Login
+- Manager Login<br>
 <img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
 <img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
-- Customer management
+- Customer management<br>
 <img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
 <img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
 - Product management
