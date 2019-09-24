@@ -48,34 +48,26 @@ Back-end PHP communicates with front-end HTML and JavaScript. PHP gets front- en
 <img src="https://s2.ax1x.com/2019/09/24/uEBGsU.png" width = 80%></img>
 - Search a product from transactions<br>
 <img src="https://s2.ax1x.com/2019/09/24/uEBtZ4.png" width = 80%></img>
+<img src="https://s2.ax1x.com/2019/09/24/uEBjWq.png" width = 80%></img>
 - Edit profile<br>
 <img src="https://s2.ax1x.com/2019/09/24/uEBfJI.png" width = 80%></img>
 #### Manager
 - Manager Login<br>
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
+<img src="https://s2.ax1x.com/2019/09/24/uEDSyT.png" width = 80%></img>
+- Welcome<br>
+<img src="https://s2.ax1x.com/2019/09/25/uEDCmF.png" width = 80%></img>
 - Customer management<br>
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
+<img src="https://s2.ax1x.com/2019/09/25/uED5N9.png" width = 80%></img>
+<img src="https://s2.ax1x.com/2019/09/25/uEDbjK.png" width = 80%></img>
+<img src="https://s2.ax1x.com/2019/09/25/uEDvAH.png" width = 80%></img>
 - Product management
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
+<img src="https://s2.ax1x.com/2019/09/25/uEr93t.png" width = 80%></img>
+<img src="https://s2.ax1x.com/2019/09/25/uErAHg.png" width = 80%></img>
+<img src="https://s2.ax1x.com/2019/09/25/uErVEQ.png" width = 80%></img>
 - Transaction management
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
+<img src="https://s2.ax1x.com/2019/09/25/uErMvV.png" width = 80%></img>
 - Employee management
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
-- Real store management
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
-- Supplier management
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
-- Data visualization dashboard
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
-- Logout
-<img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
+<img src="https://s2.ax1x.com/2019/09/25/uEr1DU.png" width = 80%></img>
+- Store management
+<img src="https://s2.ax1x.com/2019/09/25/uErJUJ.png" width = 80%></img>
 
- 
