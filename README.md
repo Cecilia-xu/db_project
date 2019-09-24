@@ -60,14 +60,14 @@ Back-end PHP communicates with front-end HTML and JavaScript. PHP gets front- en
 <img src="https://s2.ax1x.com/2019/09/25/uED5N9.png" width = 80%></img>
 <img src="https://s2.ax1x.com/2019/09/25/uEDbjK.png" width = 80%></img>
 <img src="https://s2.ax1x.com/2019/09/25/uEDvAH.png" width = 80%></img>
-- Product management
+- Product management<br>
 <img src="https://s2.ax1x.com/2019/09/25/uEr93t.png" width = 80%></img>
 <img src="https://s2.ax1x.com/2019/09/25/uErAHg.png" width = 80%></img>
 <img src="https://s2.ax1x.com/2019/09/25/uErVEQ.png" width = 80%></img>
-- Transaction management
+- Transaction management<br>
 <img src="https://s2.ax1x.com/2019/09/25/uErMvV.png" width = 80%></img>
-- Employee management
+- Employee management<br>
 <img src="https://s2.ax1x.com/2019/09/25/uEr1DU.png" width = 80%></img>
-- Store management
+- Store management<br>
 <img src="https://s2.ax1x.com/2019/09/25/uErJUJ.png" width = 80%></img>
 
