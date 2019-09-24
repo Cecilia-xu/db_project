@@ -12,6 +12,11 @@ There two types of users in our system which are ‘Customer’ and ‘Manager�
 ## ER Model
 <img src="https://s2.ax1x.com/2019/09/24/uEaBDJ.png" width = 80%></img>
 ## Relational Database Schema
+A set of relational schemas resulting from the E-R diagram can identify types of all the attributes, primary keys and foreign keys. Besides, we can figure out the relationship between different tables.
+- one to one: products - transactions 
+- one to many: supplier - products
+- one to many: stores - salesman
+- one to many: customer - transactions
 <img src="https://s2.ax1x.com/2019/09/24/uEaxbj.png" width = 80%></img>
 
 ## Setup
